@@ -1,0 +1,22 @@
+/*
+ Theme Name:   Daiquiri Child Theme
+ Theme URI:    http://the-daiquiri.themerex.net/
+ Description:  Daiquiri Child Theme
+ Author:       ThemeREX
+ Author URI:   http://themerex.net/
+ Template:     daiquiri
+ Version:      1.0
+ Tags:         flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+ Text Domain:  daiquiri
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.wc-block-components-title.wc-block-components-title{
+    letter-spacing: -1.6px;
+}
+body .booked-form .cf-block select {
+    visibility: visible !important;
+}

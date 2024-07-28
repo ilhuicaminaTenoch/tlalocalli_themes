@@ -1,0 +1,109 @@
+Version 1.2.1
+    Added:
+        - WP 6.5.2 compatibility
+        - Compatibility with The GDPR Framework plugin
+
+    Fixed:
+        - Improve theme styles
+        - Update plugins to their latest version
+        - Scripts libraries are updated
+
+    Changed:
+        - Update demo data
+
+Version 1.2.0
+    Added:
+    	- WP 6.4.1 compatibility
+    	- Added: TikTok & Twitter (x) icons
+    	- Compatibility with QuickCal plugin
+
+    Fixed:
+    	- Improve theme styles
+    	- Update plugins to their latest version
+    	- Scripts libraries are updated
+
+    Changed:
+    	- Update demo data
+    
+    Removed:
+    	- Booked Appointments plugin
+
+Version 1.1.6
+	Added:
+		- WP 6.2.2 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+	
+	Changed:
+		- Update demo data
+		
+Version 1.1.5
+	Fixed:
+		- Import Essential Grid 3.0.17+ plugin
+
+Version 1.1.4
+	Added:
+		- WP 6.0.2 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+
+Version 1.1.3
+	Added:
+		- WP 6.0 compatibility
+        - Smash Balloon Instagram Feed plugin
+
+	Fixed:
+		- Update plugins to their latest versions
+
+	Changed:
+		- Update demo data
+
+Version 1.1.2
+	Added:
+		- WP 5.9 compatibility
+		- PHP 8 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+
+	Changed:
+		- Update demo data
+
+Version 1.1.1
+	Added:
+		- WP 5.7 compatibility
+		- PHP 7.4 compatibility
+		- TRX Updater plugin
+		- ThemeREX Socials plugin
+
+	Fixed:
+		- Update plugins to their latest versions
+
+	Changed:
+		- Update demo data
+	
+	Removed:
+		- Smash Balloon Instagram Feed plugin
+
+Version 1.1.0
+	Added:
+		- Compatibility with WP 5.2.1
+		- Compatibility with PHP7.3
+		- Compatibility with Cookie Information
+		- Alert to Demo data installation
+		- Privacy Policy page
+
+		Fixed:
+		- Compatibility with Gutenberg
+		- Update plugins to their latest versions
+		- Improve theme styles
+		- Update scripts  libraries
+
+
+		Changed:
+		- Update default contact forms to make them GDPR-compliant
+		- Update demo data
+
+Version: 1.0.0 (v.1.0.40.3)

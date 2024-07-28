@@ -1,0 +1,24 @@
+/* MailChimp for WP styles
+----------------------------------------------------------------- */
+form.mc4wp-form {
+	position:relative;
+}
+form.mc4wp-form .mc4wp-form-fields input[type="email"] {
+	width: 100%;
+	vertical-align:top;
+	@include border-box;
+	padding-right: 11em;
+	height: 65px;
+}
+form.mc4wp-form .mc4wp-form-fields input[type="submit"] {
+	@include abs-rt;
+	max-width:10em;
+	vertical-align:top;
+	padding:1.33em 2em;
+	height: 65px;
+}
+form.mc4wp-form .mc4wp-alert {
+	margin: 1em 0;
+	padding: 0;
+	line-height:1.5em;
+}
