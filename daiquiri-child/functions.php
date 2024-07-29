@@ -16,14 +16,5 @@ function enqueue_custom_scripts() {
 }
 add_action('wp_enqueue_scripts', 'enqueue_custom_scripts');
 
-add_filter( 'gettext', 'my_custom_text_changes', 20, 3 );
-function my_custom_text_changes( $translated_text, $text, $domain ) {
-    switch ( $translated_text ) {
-        case 'Book Appointment' :
-            $translated_text = 'Reservar una cita';
-            break;
-    }
-    return $translated_text;
-}
 
 ?>
